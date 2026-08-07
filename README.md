@@ -1,2 +1,3 @@
 # Calculator-By-Soumya-Through-a-YT-video-nvm-
 1st Ever Proper Web Project. ( I have even doesn't completed my course loll
+it is my first calculator project which i have made using watching YT video. sry but i just think that lets just know the very basics of html , css and js before going to make some websites of my own in future. thats why i am thinking to upgrade my self in the future. currently i am in class 10 and i am preparing for boards. so i am a busy person. Thanks you for listening to me and understanding me.                 Again i will say i will persue my dream of becoming a succesful software develper or ML engineer. 
